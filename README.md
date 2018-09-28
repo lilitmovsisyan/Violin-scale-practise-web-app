@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # Violin scales generator
 =======
-# Violin scale generator app, adapted for web deployment using Flask framework.
->>>>>>> origin/master
+Violin scale generator web app, adapted from lilitmovsisyan/violin_scale_generator for web deployment using Flask framework.
+
+
